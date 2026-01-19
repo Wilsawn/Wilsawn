@@ -7,10 +7,10 @@ I enjoy moving fast, experimenting, and staying curious.
 
 ## What I’m Working On
 
-- **Intelligent Load Balancer**  
+- **NetSafe**  
   Building an AI-powered load balancer using **Vercel**, **Vercel Edge Networking**, and a trained model to detect and route traffic intelligently in real time.
 
-- **People’s Grass** 🌱  
+- **Outly** 🌱  
   A product focused on getting people outside, exploring their environment, and interacting with the real world in a more meaningful way.
 
 ### Languages

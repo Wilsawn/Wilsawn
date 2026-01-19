@@ -1,4 +1,4 @@
-# Hey, I’m Wilsawn Dideh (aka Wilsawn)
+# Hey, I’m Wilsawn 
 
 I’m a **software developer** who likes building things that feel a little unconventional.  
 I’m especially interested in **AI**, **cloud infrastructure**, and systems that get smarter the more they’re used.

@@ -20,9 +20,7 @@ I enjoy moving fast, experimenting, and staying curious.
 ## Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### Frameworks, Cloud & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)

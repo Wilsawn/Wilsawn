@@ -58,6 +58,3 @@ I like spontaneous ideas, side projects, and systems that evolve over time.
 
 ---
 
-## GitHub Stats
-
-![Wilsawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wilsawn&show_icons=true&theme=transparent)

@@ -12,7 +12,15 @@ I enjoy moving fast, experimenting, and staying curious.
 
 - **Outly** 🌱  
   A product focused on getting people outside, exploring their environment, and interacting with the real world in a more meaningful way.
+  
+## How I Think About Building
 
+- Stay curious  
+- Build things that matter  
+- Good communication > fancy tech  
+- Move fast, learn faster  
+- I like spontaneous ideas, side projects, and systems that evolve over time.
+  
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=py,java,ts,js,html,css)]()
 
@@ -21,14 +29,6 @@ I enjoy moving fast, experimenting, and staying curious.
 
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis)]()
-
-## How I Think About Building
-
-- Stay curious  
-- Build things that matter  
-- Good communication > fancy tech  
-- Move fast, learn faster  
-- I like spontaneous ideas, side projects, and systems that evolve over time.
 
 ## Connect
 

@@ -1,6 +1,6 @@
 # Hey, I’m Wilsawn 
 
-I’m a **software developer** who likes building things that feel a little unconventional.  
+I’m a **CS student** who likes building things that feel a little unconventional.  
 I’m especially interested in **AI**, **cloud infrastructure**, and systems that get smarter the more they’re used.
 
 I enjoy moving fast, experimenting, and staying curious.

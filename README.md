@@ -5,8 +5,6 @@ I’m especially interested in **AI**, **cloud infrastructure**, and systems tha
 
 I enjoy moving fast, experimenting, and staying curious.
 
----
-
 ## What I’m Working On
 
 - **Intelligent Load Balancer**  
@@ -15,28 +13,14 @@ I enjoy moving fast, experimenting, and staying curious.
 - **People’s Grass** 🌱  
   A product focused on getting people outside, exploring their environment, and interacting with the real world in a more meaningful way.
 
----
-
-## Tech Stack
-
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,ts,js,html,css)](https://skillicons.dev)
 
 ### Frameworks, Cloud & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=react,fastapi,aws,docker,vercel)](https://skillicons.dev)
 
 ### Databases
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-
----
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis)](https://skillicons.dev)
 
 ## How I Think About Building
 
@@ -44,10 +28,7 @@ I enjoy moving fast, experimenting, and staying curious.
 - Build things that matter  
 - Good communication > fancy tech  
 - Move fast, learn faster  
-
-I like spontaneous ideas, side projects, and systems that evolve over time.
-
----
+- I like spontaneous ideas, side projects, and systems that evolve over time.
 
 ## Connect
 

@@ -35,5 +35,4 @@ I enjoy moving fast, experimenting, and staying curious.
 - LinkedIn: **[add your LinkedIn link here]**
 - GitHub: **@Wilsawn**
 
----
 

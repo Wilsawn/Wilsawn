@@ -32,7 +32,7 @@ I enjoy moving fast, experimenting, and staying curious.
 
 ## Connect
 
-- LinkedIn: **[add your LinkedIn link here]**
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/wilsawn-dideh/)
 - GitHub: **@Wilsawn**
 
 

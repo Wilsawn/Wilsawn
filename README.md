@@ -14,13 +14,13 @@ I enjoy moving fast, experimenting, and staying curious.
   A product focused on getting people outside, exploring their environment, and interacting with the real world in a more meaningful way.
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=py,java,ts,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,ts,js,html,css)]()
 
 ### Frameworks, Cloud & Tools
-[![My Skills](https://skillicons.dev/icons?i=react,fastapi,aws,docker,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,fastapi,aws,docker,vercel)]()
 
 ### Databases
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis)]()
 
 ## How I Think About Building
 
@@ -33,6 +33,6 @@ I enjoy moving fast, experimenting, and staying curious.
 ## Connect
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/wilsawn-dideh/)
-- GitHub: **@Wilsawn**
+
 
 

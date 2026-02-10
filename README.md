@@ -22,7 +22,7 @@ I enjoy moving fast, experimenting, and staying curious.
 - I like spontaneous ideas, side projects, and systems that evolve over time.
   
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=py,java,ts,js,html,css)]()
+[![My Skills](https://skillicons.dev/icons?i=py,c,java,ts,js,html,css)]()
 
 ### Frameworks, Cloud & Tools
 [![My Skills](https://skillicons.dev/icons?i=react,fastapi,aws,docker,vercel)]()
